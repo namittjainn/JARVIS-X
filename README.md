@@ -47,4 +47,4 @@ This assistant can interact using **voice commands, hand gestures, and facial ex
 ---
 
 ## 📂 Project Structure
-
+JARVIS_X_FINAL/ │ ├── main.py ├── core/ ├── voice/ ├── vision/ ├── system/ ├── data/ ├── database/ │ └── memory.json ├── requirements.txt └── README.md
